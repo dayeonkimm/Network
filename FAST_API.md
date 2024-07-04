@@ -22,6 +22,7 @@ f.append(4)
 print(e)  # 출력: [1, 2, 3, 4] (e도 변함)
 <br>
 <br>
+
 ## 2. FAST API 특징
 
 ### Fast API 란 ?
