@@ -20,8 +20,8 @@ e = [1, 2, 3]
 f = e
 f.append(4)
 print(e)  # 출력: [1, 2, 3, 4] (e도 변함)
-
-
+<br>
+<br>
 ## 2. FAST API 특징
 
 ### Fast API 란 ?
@@ -66,7 +66,8 @@ I/O 작업이 완료되면, 그 시점에 맞춰 결과를 처리하는 방식�
 - Swagger(OpenAPI) 기반의 자동 문서화가 효율적이다
 - Starlette 을 갖다쓴 덕분에 WebSocket 과 같은 빌트인 기능이 충분하다
 - 공식 문서가 훌륭하다
-
+<br>
+<br>
 ## 3. FAST API vs DJANGO
 
 ### 장고
@@ -102,7 +103,8 @@ fastapi는 고성능 api를 위해 개발되어서 비동기식으로 진행되�
 
 장고의 부족한 부분을 fastapi로 보완할 수 있기 때문에 상황에 따라서 적절한 프레임워크를 선택해서 사용하는것이 좋음
 
-
+<br>
+<br>
 ## 4. FAST API vs FLASK
 
 ### **Flask vs. FastAPI 비교:**
