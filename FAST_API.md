@@ -68,6 +68,7 @@ I/O 작업이 완료되면, 그 시점에 맞춰 결과를 처리하는 방식�
 - 공식 문서가 훌륭하다
 <br>
 <br>
+
 ## 3. FAST API vs DJANGO
 
 ### 장고
@@ -105,6 +106,7 @@ fastapi는 고성능 api를 위해 개발되어서 비동기식으로 진행되�
 
 <br>
 <br>
+
 ## 4. FAST API vs FLASK
 
 ### **Flask vs. FastAPI 비교:**
